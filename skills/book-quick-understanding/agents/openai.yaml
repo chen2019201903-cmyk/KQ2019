@@ -1,0 +1,4 @@
+interface:
+  display_name: "快速了解一本书"
+  short_description: "梳理故事或论证、核心问题与金句，核实视频热度，形成三分钟复述"
+  default_prompt: "使用 $book-quick-understanding 帮我快速了解《书名》，掌握内容骨架、核心问题、金句、价值与局限，推荐相关视频，并给出约3分钟复述。"
